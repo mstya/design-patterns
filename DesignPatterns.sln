@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.FluentBuilde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.FunctionalBuilder", "DesignPatterns.FunctionalBuilder\DesignPatterns.FunctionalBuilder.csproj", "{8E7ED2D0-F10A-44E7-9D11-BE5160DB1011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.FacetedBuilder", "DesignPatterns.FacetedBuilder\DesignPatterns.FacetedBuilder.csproj", "{FCAAF0D0-255F-43B0-A890-76DCE423487E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8E7ED2D0-F10A-44E7-9D11-BE5160DB1011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E7ED2D0-F10A-44E7-9D11-BE5160DB1011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E7ED2D0-F10A-44E7-9D11-BE5160DB1011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAAF0D0-255F-43B0-A890-76DCE423487E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAAF0D0-255F-43B0-A890-76DCE423487E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAAF0D0-255F-43B0-A890-76DCE423487E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAAF0D0-255F-43B0-A890-76DCE423487E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
